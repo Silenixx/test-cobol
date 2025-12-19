@@ -1,0 +1,5 @@
+cobc -x HelloWorld.cbl
+
+
+
+./Solde
